@@ -1,0 +1,12 @@
+/*menu links*/
+.custom_tag > a
+{
+    color: #aaa79e !important;
+}
+
+/*navbar on mobile*/
+.navbar-default .navbar-toggle:hover
+{
+    background-color: #bddbff;
+}
+
